@@ -1,0 +1,42 @@
+{
+    "personajes": [
+      {
+        "nombre": "Homero Simpson",
+        "avatar": "https://static.wikia.nocookie.net/lossimpson/images/6/65/Bart_Simpson.png/revision/latest/top-crop/width/200/height/150?cb=20100530014756&path-prefix=es"
+      },
+      {
+        "nombre": "Marge Simpson",
+        "avatar": "https://static.wikia.nocookie.net/lossimpson/images/0/0b/Marge_Simpson.png/revision/latest/top-crop/width/200/height/150?cb=20090415001251&path-prefix=es"
+      },
+      {
+        "nombre": "Bart Simpson",
+        "avatar": "https://static.wikia.nocookie.net/lossimpson/images/6/65/Bart_Simpson.png/revision/latest/top-crop/width/200/height/150?cb=20100530014756&path-prefix=es"
+      },
+      {
+        "nombre": "Lisa Simpson",
+        "avatar": "https://static.wikia.nocookie.net/lossimpson/images/e/ec/Lisa_Simpson.png/revision/latest/top-crop/width/200/height/150?cb=20101120082357&path-prefix=es"
+      },
+      {
+        "nombre": "Maggi Simpson",
+        "avatar": "https://static.wikia.nocookie.net/lossimpson/images/9/9d/Maggie_Simpson.png/revision/latest/top-crop/width/200/height/150?cb=20100529224628&path-prefix=es"
+      },
+      {
+        "nombre": "Abraham Simpson",
+        "avatar": "https://static.wikia.nocookie.net/lossimpson/images/a/a9/Abraham_Simpson.png/revision/latest/top-crop/width/200/height/150?cb=20150426055530&path-prefix=es"
+      },
+      {
+        "nombre": "Ned Flanders",
+        "avatar": "https://static.wikia.nocookie.net/lossimpson/images/8/84/Ned_Flanders.png/revision/latest/top-crop/width/200/height/150?cb=20150426062016&path-prefix=es"
+      },
+      {
+        "nombre": "Charles Montgomery Burns",
+        "avatar": "https://static.wikia.nocookie.net/lossimpson/images/9/9d/Charles_Montgomery_Burns.png/revision/latest/top-crop/width/200/height/150?cb=20090227021502&path-prefix=es"
+      },
+      {
+        "nombre": "MilhouseVan Van Houten",
+        "avatar": "https://static.wikia.nocookie.net/lossimpson/images/1/11/Milhouse_Van_Houten.png/revision/latest/scale-to-width-down/350?cb=20150426062610&path-prefix=es"
+      }
+
+      
+    ]
+}
